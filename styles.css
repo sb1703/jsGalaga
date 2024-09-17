@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 400px;
+  height: 600px;
+  background-color: rgb(0, 0, 15);
+  overflow: hidden;
+}
+
+div.lives {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
